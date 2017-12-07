@@ -26,11 +26,21 @@ def main():
 
 
 def name():
-    # ev3.Sound.speak("TIME CUBE 4ce In 1884,  meridian time personnel met in "
+    # ev3.Sound.speak("TIME CUBE 4ce In 1884, meridian time personnel met in "
     #                 "Washington to change Earth time. First words said was "
     #                 "that only 1 day could be used on Earth to not change "
     #                 "the 1 day bible. So they applied the 1 day and "
     #                 "ignored  the  other  3 days.").wait()
-    ev3.Sound.speak("Allison").wait()
+
+    # ev3.Sound.speak("TIME CUBE 4ce In 1884,  meridian time personnel met in "
+    #                 "Washington to change Earth time").wait()
+
+    # ev3.Sound.speak("Allison").wait()
+
+    ev3.Sound.speak(
+        "oiueaeoiuaeoiuaeoiuaoieuoaieuaoieeiaoiueiuaoeiuaoieuaoi"
+        "euoaieuaoieuoaieuaoieu").wait()
+
 
 main()
+
