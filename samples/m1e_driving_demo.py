@@ -10,8 +10,8 @@ code.
 
   Demo program that shows some of the driving API for ev3.LargeMotor objects.
     
-Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+Authors: Dave Fisher and Allison Shi.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ------------------------------------------------------------------
 # TODO: 2
